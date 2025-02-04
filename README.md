@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Flutter Development
+- 🔭 I’m currently working on buchnovi.de
 
 <!--
 **KrankerSchrank/KrankerSchrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
